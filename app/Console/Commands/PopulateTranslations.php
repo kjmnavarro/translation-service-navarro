@@ -7,7 +7,7 @@ use Illuminate\Console\Command;
 
 class PopulateTranslations extends Command
 {
-    protected $signature = 'translations:populate {count=100}';
+    protected $signature = 'translations:populate {count=100000}';
     protected $description = 'Populate the database with translations for testing';
 
     public function handle()

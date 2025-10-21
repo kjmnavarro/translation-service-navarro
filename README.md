@@ -43,7 +43,7 @@ php artisan migrate
 
 ```
 
-php artisan translations:populate 100
+php artisan translations:populate 100000
 
 ```
 
